@@ -9,3 +9,8 @@ Creacion de un sistema que simula el monitoreo de temperatura y humedad en tiemp
 **5. Almacenamiento de Datos:** Utiliza Azure Blob Storage para guardar los datos históricos generados por los dispositivos.
 **6. Crea un Dashboard en Power BI:** Diseña un dashboard que muestre los datos de temperatura y humedad en tiempo real.
 **7. Configura Alertas:** Establece notificaciones para alertar sobre condiciones extremas de temperatura o humedad, garantizando una respuesta rápida ante situaciones críticas.
+
+1. item one
+2. item two
+3. item three
+4. item four 
