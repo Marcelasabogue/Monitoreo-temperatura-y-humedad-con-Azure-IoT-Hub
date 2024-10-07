@@ -1,0 +1,6 @@
+**Paso 1: Simulador de Dispositivos IoT**
+Se puede implementar la generación de los datos de dos maneras:
+
+1. **Mediante el simulador**: Puedes seguir la guía disponible en [Microsoft Learn](https://learn.microsoft.com/es-es/azure/iot-hub/raspberry-pi-get-started) para aprender cómo hacerlo.
+
+2. **Generación de datos aleatorios**: Esta opción se puede lograr utilizando un script de Python, específicamente el archivo `simulador.py`.
