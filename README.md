@@ -14,5 +14,5 @@ Este proyecto implementa un sistema para el monitoreo en tiempo real de temperat
    - Procesa los datos en tiempo real a medida que llegan desde el IoT Hub.
 
 4. **Almacenamiento de Datos**:
-   - Utiliza Azure Blob Storage para guardar los datos h
+   - Utiliza Azure Blob Storage para guardar los datos 
 
