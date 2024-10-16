@@ -2,7 +2,7 @@
 
 Este proyecto implementa un sistema para el monitoreo en tiempo real de temperatura y humedad, utilizando Azure IoT Hub para recibir datos de sensores simulados, Azure Stream Analytics para su análisis y azure Blob Storage para guardar los datos.
 
-![Arquitectura del proyecto](imagenes/arquitecturaiot.png)
+![Arquitectura del proyecto](Imagenes/arquitecturaiot.png)
 
 
 ## Contenido del Proyecto
